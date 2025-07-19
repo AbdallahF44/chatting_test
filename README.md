@@ -31,8 +31,8 @@ A simple real-time-ish chat application built with Laravel and Livewire.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/AbdallahF44/chatting_test.git
+cd chatting_test
 composer install
 npm install && npm run dev
 cp .env.example .env
